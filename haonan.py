@@ -1,1 +1,1 @@
-print("杂鱼")
+学姐为什么不挂代理用git bash 可以push 和pull到github，而vscode不行
